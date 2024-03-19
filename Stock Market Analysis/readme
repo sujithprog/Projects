@@ -21,7 +21,7 @@ Key Findings
 (Here, summarize the most important insights from your analysis. This might include trends in stock prices over time, comparison between different tech stocks, periods of high volatility, etc. Provide specific examples and possibly include visualizations to illustrate these points.)
 
 How to Run the Project
-Clone the Repository: git clone [repository-url]. Replace [repository-url] with the actual URL of your GitHub repository.
+
 Install Required Libraries: Ensure that Python is installed on your machine, and install the necessary Python packages using pip install -r requirements.txt.
 Launch Jupyter Notebook: Navigate to the project directory and launch Jupyter Notebook by running jupyter notebook in your terminal or command prompt.
 Open the Notebook: In the Jupyter Notebook interface, navigate to the Stock Market Analysis for Tech Stocks.ipynb file and open it.
