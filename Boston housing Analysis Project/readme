@@ -1,0 +1,38 @@
+*Predicting Boston Housing Prices*
+
+Project Overview
+This project aims to predict housing prices in Boston using data from the UCI Machine Learning Repository. The dataset contains information about various housing features and the median value of homes for different neighborhoods in Boston. Through exploratory data analysis (EDA) and machine learning models, this project seeks to understand the factors that influence housing prices and predict them for prospective homeowners.
+
+Objective
+The primary goal is to build and train a model that can accurately predict the median value of homes (MEDV) in Boston neighborhoods based on a set of features provided in the dataset. This model will help in understanding the housing market dynamics and could be useful for real estate agents, buyers, and policymakers.
+
+Methodology
+Data Exploration: Started with an initial exploration of the dataset to understand the distribution of various features and the target variable (MEDV).
+Calculating Statistics: Computed basic statistical measures such as mean, median, and standard deviation to gain insights into the dataset's central tendency and spread.
+Feature Observation: Analyzed the relationship between different features and the target variable to identify patterns and potential predictors for housing prices.
+Model Development & Training: Applied several machine learning algorithms to build models capable of predicting housing prices. This involved data preprocessing, feature selection, model training, and hyperparameter tuning.
+Evaluation & Validation: Assessed the models' performance using appropriate metrics like R² score and Mean Squared Error (MSE) to ensure their accuracy and reliability.
+Tools and Libraries Used
+Python: Primary programming language used for the project.
+Pandas & NumPy: For data manipulation and numerical calculations.
+Matplotlib & Seaborn: For data visualization.
+Scikit-learn: For implementing machine learning models and preprocessing data.
+
+Key Findings
+The prices seem reasonable given the features of the homes. We can see that the highest priced home has the most rooms, lowest neighbourhood poverty level, and the lowest student-teacher ratio, all of which make intuitive sense as discussed in the Question 1. On the contrary, the home with the lowest number of rooms, highest neighbourhood poverty level, and highest student-teacher ratio is priced the lowest in our predictions.
+
+How to Run the Project
+Install Required Libraries: Ensure that Python is installed on your machine, and install the necessary Python packages using pip install -r requirements.txt.
+Launch Jupyter Notebook: Navigate to the project directory and launch Jupyter Notebook by running jupyter notebook in your terminal or command prompt.
+Open the Notebook: In the Jupyter Notebook interface, navigate to the boston_housing.ipynb file and open it.
+Run the Notebook: Execute the cells in order to reproduce the analysis and view the results.
+
+Conclusion
+The project provides valuable insights into the Boston housing market, highlighting key factors that influence housing prices. The predictive models developed can serve as a tool for various stakeholders in making informed decisions about buying or selling properties. Further research could explore more complex models or additional features to enhance prediction accuracy.
+
+Also,this finishes the project. We have built a decision tree regressor that performs reasonably well given the 3 features. But should the model should be used in a real-world setting? It probably shouldn't because: 
+
+- The data collected in 1978 is not really relevant today due to rising population levels and changing population density of different areas. 
+- The features present in the data that we built our model on are not likely be sufficient to describe a home. Examples of interesting features to look at may be *proximity to city center*, or *neighbourhood crime rate*.  
+- The data collected in an urban city will not be applicable in a rural city, because the people might value different aspects of a home depending on whether they live in an urban city or a rural area. For example, a person living in a rural city might value number of rooms in a home over the proximity to the city.
+
