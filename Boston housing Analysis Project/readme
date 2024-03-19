@@ -1,4 +1,4 @@
-*Predicting Boston Housing Prices*
+**Predicting Boston Housing Prices**
 
 Project Overview
 This project aims to predict housing prices in Boston using data from the UCI Machine Learning Repository. The dataset contains information about various housing features and the median value of homes for different neighborhoods in Boston. Through exploratory data analysis (EDA) and machine learning models, this project seeks to understand the factors that influence housing prices and predict them for prospective homeowners.
