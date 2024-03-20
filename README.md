@@ -12,7 +12,9 @@ Repository containing portfolio of data science projects completed by me for aca
 
 
 - ### Natural Language Processing
-
+	- [3-way Sentiment Analysis for Tweets](https://github.com/sujithprog/Projects/tree/main/Sentiment%20Analysis%20for%20tweets): 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's 
+          sentiment analysis engine.
+   _Tools: NLTK, scikit_
 
 - ### Data Analysis and Visualisation
 	
