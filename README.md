@@ -11,7 +11,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 
 - ### Data Analysis and Visualisation
-	- __Python__
+	
 	- [Stock Market Analysis for Tech Stocks]:Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
 	- [2016 US General Election Poll Data Analysis]:Very simple analysis of 2016 US General Election Poll data.
 
