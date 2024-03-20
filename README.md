@@ -18,5 +18,5 @@ Repository containing portfolio of data science projects completed by me for aca
 	
 	- [Stock Market Analysis for Tech Stocks](https://github.com/sujithprog/Projects/tree/main/Stock%20Market%20Analysis):Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
 	- [2016 US General Election Poll Data Analysis](https://github.com/sujithprog/Projects/tree/main/2016%20General%20Election%20Poll%20Analysis):Very simple analysis of 2016 US General Election Poll data.
-Tools: Pandas, Folium, Seaborn and Matplotlib
+-Tools: Pandas, Folium, Seaborn and Matplotlib
 
