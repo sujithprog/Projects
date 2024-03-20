@@ -6,6 +6,8 @@ Repository containing portfolio of data science projects completed by me for aca
 - ### Machine Learning
 	- [Predicting Boston Housing Prices]: A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing 
            machine learning.
+   	- [Diabetic Retinopathy Detection]: Developed an automated system for detecting Diabetic Retinopathy in retinal images using deep learning techniques. The project involved image preprocessing, model training using convolutional 
+          neural networks, and evaluation of model performance to assist in early diagnosis.
    	
 
 
