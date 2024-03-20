@@ -1,4 +1,4 @@
-3-Way Sentiment Analysis for Tweets
+#3-Way Sentiment Analysis for Tweets
 Project Overview
 This project applies sentiment analysis to tweets, categorizing them into positive, negative, and neutral sentiments. Utilizing natural language processing (NLP) techniques, the analysis aims to gauge public sentiment on various topics, demonstrating the power of data science in extracting meaningful insights from social media data.
 
