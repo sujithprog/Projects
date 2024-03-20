@@ -8,7 +8,7 @@ Repository containing portfolio of data science projects completed by me for aca
            analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
    	- [Diabetic Retinopathy Detection](https://github.com/sujithprog/Projects/tree/main/Diabetic%20retinopathy%20detection): Developed an automated system for detecting Diabetic Retinopathy in retinal images using deep learning 
           techniques. The project involved image preprocessing, model training using convolutional neural networks, and evaluation of model performance to assist in early diagnosis.
-   	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_
+_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_
 
 
 - ### Natural Language Processing
